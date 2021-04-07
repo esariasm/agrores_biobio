@@ -9,12 +9,10 @@
 [RP:RUN1_DEFINEDATABASE]
 1=
 
-[MRUFILES]
-1=C:\Users\Esteban\Desktop\Git\agrores_biobio\run1_defineDatabase.gms
-
 [OPENWINDOW_1]
 FILE0=C:\Users\Esteban\Desktop\Git\agrores_biobio\b1_coreModelBasinv3.gms
-FILE1=C:\Users\Esteban\Desktop\Git\agrores_biobio\b1_coreModelBasinv3.gms
+FILE1=C:\Users\Esteban\Desktop\Git\agrores_biobio\run1_defineDatabase.gms
+FILE2=C:\Users\Esteban\Desktop\Git\agrores_biobio\b1_coreModelBasinv3.gms
 MAXIM=1
 TOP=50
 LEFT=50
